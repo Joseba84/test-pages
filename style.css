@@ -1,0 +1,35 @@
+body {
+    font-family: 'Oxanium', cursive;
+    margin: 10px;
+}
+
+h1 {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+}
+p {
+    font-size: 1.2rem;
+}
+
+div {
+    margin-top: 30px;
+    border-top: 1px solid #000000;
+}
+
+input {
+    border: 1px solid #000000;
+}
+
+button {
+    background-color: blue;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+a {
+    padding: 15px 0;
+    display: block;
+    text-decoration: none;
+}
